@@ -1,0 +1,7 @@
+/fill 83 -61 32 130 -45 67 green_wool replace orange_wool
+
+/fill 83 -61 32 130 -45 67 purple_wool replace light_blue_wool
+
+/fill 83 -61 68 130 -45 107 green_wool replace orange_wool
+
+/fill 83 -61 68 130 -45 107 purple_wool replace light_blue_wool
